@@ -1,0 +1,10 @@
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\bin\Debug\Rconsumer_new_customer.exe.config
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\bin\Debug\Rconsumer_new_customer.exe
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\bin\Debug\Rconsumer_new_customer.pdb
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\obj\Debug\Rconsumer_new_customer.csprojResolveAssemblyReference.cache
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\obj\Debug\Rconsumer_new_customer.exe
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\obj\Debug\Rconsumer_new_customer.pdb
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\bin\Debug\Newtonsoft.Json.dll
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\bin\Debug\RabbitMQ.Client.dll
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\bin\Debug\Newtonsoft.Json.xml
+C:\SKOOL\3eDIG-x_part2\Integration\RabbitMq\Rconsumer_new_customer\Rconsumer_new_customer\bin\Debug\RabbitMQ.Client.xml
